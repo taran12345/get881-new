@@ -13,4 +13,7 @@ public class Calc {
 	public void div(int n1, int n2) {
 		System.out.println("Divide= "+(n1/n2));
 	}
+	public void master1(int n1, int n2) {
+		System.out.println("master1= "+(n1-n2/n2));
+	}
 }
